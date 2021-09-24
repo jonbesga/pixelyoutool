@@ -70,8 +70,8 @@
 	<div align="center">
 		<p id="totalPieces"></p>
 		<hr>
-		<span style="align:left;">Coding by <a href="http://www.twitter.com/jabesga" target="_blank"><b>@jabesga</b></a> ||</span>
-		<span style="text-align:right;">Spriting by <a href="http://www.twitter.com/nagoreina" target="_blank"><b>@nagoreina</b></a> ||</span>
+		<span style="align:left;">Coding by <a href="http://www.twitter.com/jonbesga" target="_blank"><b>@jonbesga</b></a> ||</span>
+		<span style="text-align:right;">Spriting by <a href="http://www.twitter.com/NReinaDeLaMaza" target="_blank"><b>@NReinaDeLaMaza</b></a> ||</span>
 		<span class='st_fblike_hcount' displayText='Facebook Like'></span>
 		<span class='st_facebook_hcount' displayText='Facebook'></span>
 		<span class='st_twitter_hcount' displayText='Tweet'></span>
