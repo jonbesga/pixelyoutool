@@ -1,3 +1,11 @@
+var numHair = 32
+var numHead = 1
+var numBeard = 12
+var numHeadAc = 11
+var numArms = 15
+var numTorso = 20
+var numLegs = 21
+
 var headArray = {};
 var hairArray = {};
 var beardArray = {};
